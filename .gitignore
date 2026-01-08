@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Data (do not upload raw datasets)
+*.dcm
+*.dicom
+Raw Data/
+Processed Data/
+data/
+datasets/
+
+# Models & checkpoints
+*.pth
+*.ckpt
+checkpoints/
+models/
+weights/
+
+# Logs
+*.log
+logs/
+tensorboard/
+wandb/
+
+# Environments
+.env
+.venv
+venv/
+env/
