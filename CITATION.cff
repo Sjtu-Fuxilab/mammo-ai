@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+type: software
+title: "Cross-Paradigm Transfer in Mammography AI"
+authors:
+  - family-names: Zafar
+    given-names: Sanwal Ahmad
+  - family-names: Qin
+    given-names: Wei
+  - family-names: Chengliang
+    given-names: Liu
+  - family-names: Khan
+    given-names: Areeba Ali
+  - family-names: Faisal
+    given-names: Muhammad Salman
+repository-code: "https://github.com/Sjtu-Fuxilab/mammo-ai"
