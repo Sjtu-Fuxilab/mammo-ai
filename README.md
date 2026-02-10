@@ -1,6 +1,5 @@
 # Cross-Paradigm Transfer in Mammography AI
 
-Official implementation of:  
 "Cross-Paradigm Transfer in Mammography AI: A Multi-Domain Evaluation of Performance, Fairness Gaps, and Uncertainty-Stratified Effects"
 
 Authors: Sanwal Ahmad Zafar, Wei Qin (corresponding), Liu Chengliang, Areeba Ali Khan, Muhammad Salman Faisal  
